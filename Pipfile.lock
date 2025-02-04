@@ -81,7 +81,7 @@
                 "sha256:ed6906f61834d687738d25988ae117683705636936cc605be0bb208b23df4d8f"
             ],
             "markers": "python_version >= '3.10'",
-            "version": "==2.2.2"
+            "version": "==1.5.0"
         },
         "pandas": {
             "hashes": [
